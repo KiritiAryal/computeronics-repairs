@@ -1,0 +1,3 @@
+export const RAISE_TICKET_LOADING: string = "RAISE_TICKET_LOADING";
+export const RAISE_TICKET_SUCCESS: string = "RAISE_TICKET_SUCCESS";
+export const RAISE_TICKET_ERROR: string = "RAISE_TICKET_ERROR";

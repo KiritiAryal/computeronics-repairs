@@ -1,0 +1,3 @@
+export const LOGIN_MENU_CLICKED_VALUE: string = "LOGIN_MENU_CLICKED_VALUE";
+
+export const OPEN_LOGIN_DIALOG: string = "OPEN_LOGIN_DIALOG";
